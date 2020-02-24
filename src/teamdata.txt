@@ -1,0 +1,60 @@
+Toronto Maple Leafs
+10 10
+Austin Matthews 2 1 10.4 1 3 15.5 3 1 20.1
+John Taveres 1 1 50
+William Nylander 1 1 10.1 2 2 20.2
+Mitch Marner 1 4 10 3 1 35.5 4 4 45.2
+Nazem Kadri 6 6 66.6 1 5 25.5 10 4 60
+Jake Muzzin 0 0 0 1 2 3
+Andreas Johnsson 1 1 10.1 2 2 20.3
+Nic Petan 0 0 0 0 0 0
+Frederik Andersen 0 0 0 0 0 0
+Kasperi Kapanen 0 0 0 0 0 0
+
+Montreal Canadiens
+10 10
+Carey Price 1 2 14 0 0 10
+Jesperi Kotkaniemi 2 3 10 1 1 1.4
+Jonathan Drouin 4 4 15 2 1 10.4
+Max Domi 0 0 0 1 2 3 10 1 16.1
+Brendan Gallagher 9 1 18.3 0 0 4.1
+
+Boston Bruins
+10 10
+Zdeno Chara 1 1 2
+Partrice Bergeron 2 2 4
+David Pastrnak 3 3 6
+Brad Marchand 4 4 8 1 1 1 0 0 0
+
+Pittsburgh Penguins
+10 10
+Sidney Crosby 1 5 3 3 5 1
+Evgeni Malkin 5 5 5 6 6 6 7 7 7
+Kris Letang 3 2 .1 3 1 1
+Phil Kessel 0 0 0
+
+Edmonton Oilers
+10 10
+Connor McDavid 
+Leon Draisaitl
+Sam Gagner
+Milan Lucic
+
+Vancouver Canucks
+10 10
+Elias Pettersson 1 1 1 4 4 4
+Alexander Edler 1 7 10.7
+Brock Boeser 11 2 50
+Jake Virtanen 13 4 60 1 23 45
+
+Chicago Blackhawks
+10 10
+Patrick Kane 1 1 1 23 4 45.9 10 2 60.8
+Jonathan Toews 0 0 0
+Corey Crawford 12 2 14.6 1 11 11.1
+Brent Seabrook 11 1 1.1
+
+Java Programmers
+2 10
+David Pitoniak 250 250 101
+Ben Masten 250 250 101
